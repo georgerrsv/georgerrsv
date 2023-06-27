@@ -1,7 +1,5 @@
 ## Olá, bem-vindo(a) ao meu GitHub! 👋
 
-### Cursando tecnologia em redes de computadores
-
 
 ![georgerrsv GitHub stats](https://github-readme-stats.vercel.app/api?username=georgerrsv&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgerrsv&layout=compact&theme=react)
